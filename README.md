@@ -26,13 +26,13 @@
 默认烧录为识别追踪浅绿色（草绿色），可以前往`dcmi.c`文件当中修改`TARGET_CONDI Conditionred`变量为其他色彩阈值。
 
 演示效果如下：
-![](3.Pics/vedio1.mp4)
+![](3.Pics/vedio1_converted.gif)
 
 ### 识别标准数字(0-9)
 
 > 3. 数字识别(模板匹配)
 
-![](3.Pics/vedio2.mp4)
+![](3.Pics/vedio2_converted.gif)
 
 ## 关于硬件
 
@@ -42,9 +42,9 @@
 
 外观展示如下：
 
-![](3.Pics/vedio3.mp4)
+![](3.Pics/vedio3_converted.gif)
 
 <br></br>
 
-![](3.Pics/vedio4.mp4)
+![](3.Pics/vedio4_converted.gif)
 
