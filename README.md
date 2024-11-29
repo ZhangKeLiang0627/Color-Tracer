@@ -44,7 +44,4 @@
 
 ![](3.Pics/vedio3_converted.gif)
 
-<br></br>
-
-![](3.Pics/vedio4_converted.gif)
 
