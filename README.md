@@ -26,6 +26,7 @@
 默认烧录为识别追踪浅绿色（草绿色），可以前往`dcmi.c`文件当中修改`TARGET_CONDI Conditionred`变量为其他色彩阈值。
 
 演示效果如下：
+
 ![](3.Pics/vedio1_converted.gif)
 
 ### 识别标准数字(0-9)
